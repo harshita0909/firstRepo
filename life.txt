@@ -6,3 +6,7 @@ sometime interseting
 sometime frustating
 
 in pune most of the time life sucks
+
+bored in flat
+
+/usr/bin/bash: q: command not found
